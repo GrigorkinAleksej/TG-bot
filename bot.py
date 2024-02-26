@@ -9,7 +9,7 @@ from crosses import*
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = "5410956618:AAHiJUzDdI3MmqEHq-TDJfKFw01V3q4Ycow"
+TOKEN = "Поставьте свой токен!"
 
 def main() -> None:
 # Старт бота
